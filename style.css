@@ -1,0 +1,19 @@
+.body_background
+{
+    background-position: center;
+    background-size: contain;
+    background-color: rgb(210, 212, 123);
+}
+#myCanvas
+{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: rgb(188, 219, 104);
+}
+
+#hd3{
+    display: inline-block;
+    color: rgb(220, 167, 20);
+    background-color: rgba(160, 162, 163, 0.623);
+    font-family: 'Courier New', Courier, monospace;
+}
